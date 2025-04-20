@@ -22,4 +22,5 @@ public class BarrageController {
     public Result<String> sendBarrage(@RequestBody Barrage barrage) {
         return Result.success(barrageService.sendBarrage(barrage));
     }
+
 }
