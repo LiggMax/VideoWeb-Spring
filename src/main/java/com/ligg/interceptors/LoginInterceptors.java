@@ -1,6 +1,5 @@
 package com.ligg.interceptors;
 
-import com.ligg.pojo.Result;
 import com.ligg.utils.JwtUtil;
 import com.ligg.utils.ThreadLocalUtil;
 import jakarta.servlet.http.HttpServletRequest;
